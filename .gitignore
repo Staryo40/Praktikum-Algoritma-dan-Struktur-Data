@@ -1,0 +1,7 @@
+*.exe
+.vscode/
+run*
+Legacy/
+*Legacy*
+
+praktikum3.txt
